@@ -24,3 +24,7 @@ The bored app is a mobile app that gives you fun things to do when bored 😎
 - **Activity History**
   - Added a history feature to view previous responses from the AI.
   - Users can revisit and re-explore past activity suggestions.
+
+### My socials
+  - My twitter (x) https://x.com/tiwafr
+  - Support me https://buymeacoffee.com/bzk9z
