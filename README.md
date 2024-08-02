@@ -3,7 +3,7 @@ The bored app is a mobile app that gives you fun things to do when bored 😎
 
 ### Changelog
 
-**Version X.X.X**
+**Version 1.0.0**
 
 - **Bored.ai Integration**
   - Added bored.ai which generates fun things to do when bored.
