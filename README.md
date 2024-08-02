@@ -1,5 +1,8 @@
-# bored-app
-The bored app is a mobile app that gives you fun things to do when bored 😎
+### Bored app
+Bored app gives you ideas of what to do when bored. You can randomly search through the pre-made and categorized suggestions or use Bored.Ai to generate suggestions from your prompt.
+
+### Screenshots
+![Screenshot](https://firebasestorage.googleapis.com/v0/b/blaze-7a3a2.appspot.com/o/PicLink%2FScreenshot_20240731_181318.jpg?alt=media&token=f21abe91-3201-4259-bf9f-80bc5f8ce405)
 
 ### Changelog
 
