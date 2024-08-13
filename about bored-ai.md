@@ -88,5 +88,3 @@ Adjust your responses based on the following Precision-Creativity Scale:
 The current scale is set to {getScale}
 
 Before generating a response, take a moment to go back and carefully read each part of the prompt. Think through the entire request, considering every detail, to ensure a thoughtful and accurate response
-
-`This is still the first the first version of Bored.Ai. More features will be introduced over`
